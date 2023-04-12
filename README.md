@@ -1,2 +1,2 @@
-# React DashBoard
+# React Dashboard
 
